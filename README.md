@@ -39,10 +39,21 @@ Y = [gamrnd(2,3,1,1000) gamrnd(2,5,1,1000) gamrnd(2,7,1,3000)];
 If you use this software for research purposes, please cite
 
 
-
-
 G. Vegas-Sánchez-Ferrero, M. Martín-Fernández, J. Miguel Sanches "A Gamma
 Mixture Model for IVUS Imaging", Multi-Modality Atherosclerosis Imaging
 and Diagnosis. Editors: Luca Saba, João Miguel Sanches, Luís Mendes
 Pedro, Jasjit S. Suri ISBN: 978-1-4614-7424-1 (Print) 978-1-4614-7425-8
 (Online), Pages 155-171. 2014.
+
+
+
+
+
+
+
+![GMM](https://github.com/gabrll/GammaMixtureModelEM/assets/49204215/792aae21-07bc-4236-a693-be2903a0df6f)
+
+
+
+
+

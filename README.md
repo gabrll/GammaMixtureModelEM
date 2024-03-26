@@ -1,7 +1,7 @@
 # GammaMixtureModelEM
 Gamma Mixture Model estimation with EM algorithm.
 This code estimates the components of a finite mixture model following a Gamma distribution with the EM algorithm.
-Author: Gonzalo Vegas Sánchez-Ferrero
+
 
 
 ----how to use it-----
